@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\jwtauthdotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\jwtauthdotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2064750209:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1902838470:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtAuthDotNet.http",
+              "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\JwtAuthDotNet.http",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\JwtAuthDotNet.http",
+              "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\JwtAuthDotNet.http",
+              "RelativeToolTip": "JwtAuthDotNet\\JwtAuthDotNet.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-17T13:22:07.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:52:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\AuthService.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Services\\AuthService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:17:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:17:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:11:59.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
