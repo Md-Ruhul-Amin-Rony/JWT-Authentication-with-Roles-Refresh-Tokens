@@ -43,7 +43,12 @@ namespace JwtAuthDotNet.Controllers
         {
             return Ok("You are authenticated");
         }
-        
+        [Authorize(Roles ="Admin")]
+        [HttpGet("admin")]
+        public IActionResult AdminOnlyEndpoint()
+        {
+            return Ok("You are an admin to access it");
+        }
 
     }
 }

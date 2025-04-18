@@ -32,14 +32,15 @@ namespace JwtAuthDotNet.Services
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.Username),
-                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString())
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                new Claim(ClaimTypes.Role, user.Role)
             };
             var key = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes(cong.GetValue<string>("AppSettings:Token")!));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512);
             var tokenDescriptor = new JwtSecurityToken(
-                issuer: cong.GetValue<string>("Appsettings:Issuer"),
-                audience: cong.GetValue<string>("Appsettings:Audience"),
+                issuer: cong.GetValue<string>("AppSettings:Issuer"),
+                audience: cong.GetValue<string>("AppSettings:Audience"),
                 claims: claims,
                 expires: DateTime.UtcNow.AddDays(1),
                 signingCredentials: creds

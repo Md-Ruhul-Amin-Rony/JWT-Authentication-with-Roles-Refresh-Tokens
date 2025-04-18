@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\migrations\\20250417133633_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\migrations\\20250417133633_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\migrations\\20250417133633_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\migrations\\20250417133633_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\jwtauthdotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\jwtauthdotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|c:\\users\\adiar\\source\\repos\\jwtauthdotnet\\jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D25364-A0A1-4F2A-A1FA-B808D51D0337}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "20250417133633_AddUserRole.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Migrations\\20250417133633_AddUserRole.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Migrations\\20250417133633_AddUserRole.cs",
@@ -58,25 +58,24 @@
               "RelativeToolTip": "JwtAuthDotNet\\Migrations\\20250417133633_AddUserRole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:36:34.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T13:36:34.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Entities\\User.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Entities\\User.cs",
               "RelativeToolTip": "JwtAuthDotNet\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:35:12.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwtAuthDotNet.http",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\JwtAuthDotNet.http",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\JwtAuthDotNet.http",
@@ -88,50 +87,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Program.cs",
               "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
               "RelativeToolTip": "JwtAuthDotNet\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAsAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:52:53.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\AuthService.cs",
               "RelativeToolTip": "JwtAuthDotNet\\Services\\AuthService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACUAAABVAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:17:38.834Z"
+              "WhenOpened": "2025-04-17T12:17:38.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Services\\IAuthService.cs",
               "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Services\\IAuthService.cs",
               "RelativeToolTip": "JwtAuthDotNet\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:17:17.818Z"
+              "WhenOpened": "2025-04-17T12:17:17.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\adiar\\source\\repos\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
               "RelativeToolTip": "JwtAuthDotNet\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:11:59.491Z",
               "EditorCaption": ""
