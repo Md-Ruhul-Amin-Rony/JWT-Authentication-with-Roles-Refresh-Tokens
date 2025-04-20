@@ -27,15 +27,33 @@ namespace JwtAuthDotNet.Services
                 return null;
             }
 
-            var response = new TokenResponseDto
+            TokenResponseDto response = await CreateTokenResponse(user);
+           
+            return response;
+
+        }
+
+        private async Task<TokenResponseDto> CreateTokenResponse(User? user)
+        {
+            return new TokenResponseDto
             {
                 AccessToken = CreateToken(user),
                 RefreshToken = await GenerateAndSaveRefreshToken(user),
             };
-
-            return response;
-          
         }
+
+        public async Task<TokenResponseDto> RefreshTokenAsync(RefreshTokenRequestDto request)
+        {
+            var user = await ValidateRefreshTokenAsync(request.UserId, request.RefreshToken);
+            if (user is null)
+            {
+                return null;
+            }
+            return await CreateTokenResponse(user);
+
+        }
+
+
         private async Task<User?> ValidateRefreshTokenAsync(Guid userId, string refreshToken)
         {
             var user = await context.Users.FindAsync(userId);
@@ -104,5 +122,7 @@ namespace JwtAuthDotNet.Services
             await context.SaveChangesAsync();
             return user;
         }
+
+       
     }
 }
