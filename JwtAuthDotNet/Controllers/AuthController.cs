@@ -27,14 +27,14 @@ namespace JwtAuthDotNet.Controllers
             return Ok(user);
         }
         [HttpPost("login")]
-        public async Task<ActionResult<string>> Login(UserDto request)
+        public async Task<ActionResult<TokenResponseDto>> Login(UserDto request)
         {
-            var token = await authService.LoginAsync(request);
-            if (token == null)
+            var result = await authService.LoginAsync(request);
+            if (result == null)
             {
                 return BadRequest("Invalid Username or password");
             }
-            return Ok(token);
+            return Ok(result);
             
         }
         [Authorize]
